@@ -1,0 +1,16 @@
+Image,Model,Predicted_Class,Confidence
+Train_418.jpg,ResNet50,rust,33.30337
+Train_418.jpg,MobileNetV2,rust,52.114994
+Train_418.jpg,EfficientNetB0,rust,34.37377
+Train_582.jpg,ResNet50,rust,33.364967
+Train_582.jpg,MobileNetV2,rust,40.852135
+Train_582.jpg,EfficientNetB0,rust,34.357826
+Train_1675.jpg,ResNet50,rust,35.303123
+Train_1675.jpg,MobileNetV2,rust,77.587234
+Train_1675.jpg,EfficientNetB0,rust,34.427452
+Train_436.jpg,ResNet50,rust,33.427975
+Train_436.jpg,MobileNetV2,rust,35.832275
+Train_436.jpg,EfficientNetB0,rust,34.34228
+Train_710.jpg,ResNet50,rust,33.213146
+Train_710.jpg,MobileNetV2,rust,40.435764
+Train_710.jpg,EfficientNetB0,rust,34.36933
