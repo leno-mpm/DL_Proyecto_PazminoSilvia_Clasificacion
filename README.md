@@ -15,6 +15,13 @@
 2. Seleccionar entorno con **GPU** (si aplica) para acelerar el entrenamiento.
 3. Asegurarse de que la carpeta `DATASET` esté ubicada en la ruta `CLASIFICACION/` dentro de tu Google Drive o en tu equipo.
 
+
+## 📦 Instalación de dependencias
+- Se incluye un archivo `requirements.txt` con todas las librerías necesarias.
+- En Colab o Jupyter, ejecutar al inicio del notebook:
+  !pip install -r /ruta/al/archivo/requirements.txt
+Esto instalará automáticamente TensorFlow, scikit-learn, matplotlib, seaborn, pandas, numpy y otros paquetes necesarios.
+
 ## 🏋️‍♀️ Cómo entrenar y evaluar
 1. Cargar las imágenes y archivos CSV (`train.csv`, `test.csv`, `sample_submission.csv`).
 2. Preprocesar los datos:
