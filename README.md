@@ -20,7 +20,7 @@
 - Se incluye un archivo `requirements.txt` con todas las librerías necesarias.
 - En Colab o Jupyter, ejecutar al inicio del notebook:
 ```python
-!pip install -r /ruta/al/archivo/requirements.txt
+!pip install -r /ruta/al/archivo/requirements.txt```
 Esto instalará automáticamente TensorFlow, scikit-learn, matplotlib, seaborn, pandas, numpy y otros paquetes necesarios.
 
 ## 🏋️‍♀️ Cómo entrenar y evaluar
